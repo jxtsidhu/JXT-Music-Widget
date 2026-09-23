@@ -66,4 +66,5 @@ It compiles `JXT MUSIC WIDGET.exe` and starts it. If the build fails, the consol
 
 ## License
 
-Add your preferred license here (for example MIT) before publishing.
+MIT License
+Made By JXT SIDHU
